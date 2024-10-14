@@ -9,7 +9,7 @@
 		*OLAS "Mapas\SP_BRITANNIA.OLA"
 		*ZONAS_ACC "Mapas\SP_BRITANNIA.ZAC"
 		*NIEBLA "Mapas\SP_BRITANNIA.FOG"
-		*SCRIPT "Scripts\ZZZ_BRITANNIA.TRG"
+		*SCRIPT "Scripts\FearTheEaglesCampaignScript.TRG"
 		*CONFIG_TERRENO "EuropaCentral"
 		*MALLA 200 150
 	}
